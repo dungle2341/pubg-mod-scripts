@@ -1,0 +1,9 @@
+{
+    "version": "1.0.0",
+    "script_url": "https://raw.githubusercontent.com/KENTOS/pubg-mod-scripts/main/mod_skin.lua",
+    "vehicle_url": "https://raw.githubusercontent.com/KENTOS/pubg-mod-scripts/main/mod_vehicle.lua",
+    "changelog": "Initial release - Added M416 Glacier, AKM Hellfire",
+    "force_update": false,
+    "min_app_version": "3.7.0",
+    "update_message": "New skins available! Check settings to apply."
+}
