@@ -1,0 +1,85 @@
+{
+    "version": "1.0.0",
+    "mod_skin_enabled": true,
+    "weapons": {
+        "M416": {
+            "selected": 0,
+            "skins": [
+                {"name": "Default", "id": 101004},
+                {"name": "Glacier M416", "id": 1101004046},
+                {"name": "The Fool", "id": 1101004062},
+                {"name": "Pharaoh M416", "id": 1101004138},
+                {"name": "Crimson M416", "id": 1101004163}
+            ]
+        },
+        "AKM": {
+            "selected": 0,
+            "skins": [
+                {"name": "Default", "id": 101001},
+                {"name": "Glacier AKM", "id": 1101001089},
+                {"name": "Hellfire AKM", "id": 1101001174}
+            ]
+        },
+        "SCAR_L": {
+            "selected": 0,
+            "skins": [
+                {"name": "Default", "id": 101003},
+                {"name": "Glacier SCAR", "id": 1101003057},
+                {"name": "Blood Oath", "id": 1101003119}
+            ]
+        },
+        "M762": {
+            "selected": 0,
+            "skins": [
+                {"name": "Default", "id": 101008},
+                {"name": "Glacier M762", "id": 1101008026},
+                {"name": "8-bit Unicorn", "id": 1101008051}
+            ]
+        },
+        "AWM": {
+            "selected": 0,
+            "skins": [
+                {"name": "Default", "id": 103003},
+                {"name": "Glacier AWM", "id": 1103003022},
+                {"name": "Godzilla AWM", "id": 1103003051}
+            ]
+        },
+        "GROZA": {
+            "selected": 0,
+            "skins": [
+                {"name": "Default", "id": 101005},
+                {"name": "Glacier Groza", "id": 1101005019},
+                {"name": "Poseidon", "id": 1101005052}
+            ]
+        },
+        "AUG": {
+            "selected": 0,
+            "skins": [
+                {"name": "Default", "id": 101006},
+                {"name": "Glacier AUG", "id": 1101006033}
+            ]
+        },
+        "UZI": {
+            "selected": 0,
+            "skins": [
+                {"name": "Default", "id": 102001},
+                {"name": "Pharaoh UZI", "id": 1102001058}
+            ]
+        },
+        "UMP": {
+            "selected": 0,
+            "skins": [
+                {"name": "Default", "id": 102002},
+                {"name": "Glacier UMP", "id": 1102002043}
+            ]
+        },
+        "PAN": {
+            "selected": 0,
+            "skins": [
+                {"name": "Default", "id": 108004},
+                {"name": "Honeypot", "id": 1108004125},
+                {"name": "Chicken Hot", "id": 1108004356}
+            ]
+        }
+    }
+}
