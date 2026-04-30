@@ -1,12 +1,12 @@
 {
-    "version": "1.1.0",
+    "version": "1.0.0",
     "mod_skin_enabled": true,
     "weapons": {
         "M416": {
             "selected": 0,
             "skins": [
                 {"name": "Default", "id": 101004},
-                {"name": "Glacier M416", "id": 1101004046},
+                {"name": "M4 băng", "id": 1101004046},
                 {"name": "The Fool", "id": 1101004062},
                 {"name": "Pharaoh M416", "id": 1101004138},
                 {"name": "Crimson M416", "id": 1101004163}
